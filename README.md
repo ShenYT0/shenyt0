@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=ShenYT0&theme=tokyonight&show_icons=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenYT0&theme=tokyonight&layout=compact&hide=html,SCSS,CSS,Frege)
 <!--
 **ShenYT0/shenyt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
